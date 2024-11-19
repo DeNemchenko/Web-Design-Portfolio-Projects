@@ -1,8 +1,8 @@
-# Animal Trading Cards
+# FEND Project #1: Animal Trading Cards
 
 ## Overview
 
-The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film.
+The **Animal Trading Cards** is the first project of Udacity [Frontend Web Development Fundamentals](https://emc.udacity.com/c/oneten-scholarship/catalog/Ps0S9U5suW8IHily/i/nd/nd0011-oneten-p1) nanodegree program. The design prototype used in this project is inspired by trading cards and features a fish you might recognize from a popular animated film.
 
 You’ll be creating the card and swapping out the fish with an animal of your choice.
 
@@ -36,3 +36,11 @@ You’ll be creating the card and swapping out the fish with an animal of your c
 | Separation of Concerns  | Student separates __HTML__ from __CSS__ by linking to stylesheet.                           |
 |                         | __HTML__ code does not include __<style>__ elements or __style__ attributes in the body.    |
 | Code Quality            | Code is ready for review, meaning new lines and indentation are used for easy readability.  |
+
+## Getting Started
+To run the project locally,
+1. Clone this repo.
+2. ```cd``` into project directory.
+3. Open ***card.html*** in your browser.
+## Author
+Denis Nemchenko
