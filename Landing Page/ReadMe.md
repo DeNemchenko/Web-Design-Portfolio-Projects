@@ -1,2 +1,2 @@
 # Portfolio-Projects
-This Repository contains the Portfolio Projects I created and samples of the code and queries.
+This Repository contains the Landing Page Project I created and samples of the code and queries.
