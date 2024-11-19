@@ -1,10 +1,10 @@
-# FEND Project #1: Personal Blog Website
+# FEND Project #2: Personal Blog Website
 ## Overview
-**Personal Blog Website** is the first project of Udacity [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) nanodegree program. It requires to build out a personal blog website from scratch using custom images, layout, and styling, as well as to implement proper CSS and HTML formatting & style.
+**Personal Blog Website** is the second project of Udacity [Frontend Web Development Fundamentals](https://emc.udacity.com/c/oneten-scholarship/catalog/Ps0S9U5suW8IHily/i/nd/nd0011-oneten-p1) nanodegree program. It requires building out a personal blog website from scratch using custom images, layout, and styling, as well as implementing proper CSS and HTML formatting & style.
   
 The following pages are present:
 * ***index.html*** – blog homepage
-* ***blog_post.html*** – blog post
+* ***post.html*** – blog post
 ## Features
 The project meets the following requirements:
 * **Structure**
@@ -42,6 +42,6 @@ The project meets the following requirements:
 To run the project locally,
 1. Clone this repo.
 2. ```cd``` into project directory.
-3. Open ***index.html*** or ***blog_post.html*** in your browser.
-## Authors
-Alexandra Baturina
+3. Open ***index.html*** or ***post.html*** in your browser.
+## Author
+Denis Nemchenko
