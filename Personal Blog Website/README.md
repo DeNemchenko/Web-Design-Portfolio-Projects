@@ -1,6 +1,6 @@
 # FEND Project #2: Personal Blog Website
 ## Overview
-**Personal Blog Website** is the second project of Udacity [Frontend Web Development Fundamentals](https://emc.udacity.com/c/oneten-scholarship/catalog/Ps0S9U5suW8IHily/i/nd/nd0011-oneten-p1) nanodegree program. It requires building out a personal blog website from scratch using custom images, layout, and styling, as well as implementing proper CSS and HTML formatting & style.
+The **Personal Blog Website** is the second project of Udacity [Frontend Web Development Fundamentals](https://emc.udacity.com/c/oneten-scholarship/catalog/Ps0S9U5suW8IHily/i/nd/nd0011-oneten-p1) nanodegree program. It requires building out a personal blog website from scratch using custom images, layout, and styling, as well as implementing proper CSS and HTML formatting & style.
   
 The following pages are present:
 * ***index.html*** – blog homepage
