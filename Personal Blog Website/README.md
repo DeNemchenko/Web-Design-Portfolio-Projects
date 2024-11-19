@@ -23,11 +23,12 @@ The project meets the following requirements:
   
     * Blog homepage
     
-    ![image](https://user-images.githubusercontent.com/53233637/95379242-fb0ec600-0899-11eb-982e-b1ed49a08577.png)
+    ![image](https://github.com/user-attachments/assets/eb094097-b412-4954-bcba-3ad9f5e0c90f)
     
     * Blog post page
     
-    ![image](https://user-images.githubusercontent.com/53233637/95379397-327d7280-089a-11eb-8bda-74f477299c2e.png)
+    ![image](https://github.com/user-attachments/assets/dcc9b0f9-74c6-44ab-a0b6-9717010b63e1)
+
     
 * **Layout**
   * Using *Flexbox* based layout
