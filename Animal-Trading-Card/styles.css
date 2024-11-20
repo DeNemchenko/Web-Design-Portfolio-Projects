@@ -1,0 +1,33 @@
+/* add your CSS here */
+.animal-box {
+    background-color: lightgreen; 
+    border: 1px solid gray;
+    box-shadow: gray 5px 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+img {
+  width: 300px;
+}
+
+.text-formation {
+  text-align: left;
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.facts {
+  font-style: italic;  
+}
+
+ul {
+  list-style-type: none;
+  list-style-position:inside;
+  margin:0;
+  padding:0; 
+}
+
+.label {
+  font-weight: bold;
+}
