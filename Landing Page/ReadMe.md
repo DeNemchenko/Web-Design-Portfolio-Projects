@@ -2,6 +2,7 @@
 ## Overview
 ### _Utilizing JavaScript to make dynamic experience_
 
+The **Landing Page** is the fourth project of Udacity [Frontend Web Development Fundamentals](https://emc.udacity.com/c/oneten-scholarship/catalog/Ps0S9U5suW8IHily/i/nd/nd0011-oneten-p1) nanodegree program. 
 This project aims to give you real-world scenarios of manipulating the DOM. The functionality you will be using serves two purposes: to prepare you for appending dynamically added data to the DOM, and to show you how javascript can improve the usability of an otherwise static site. This project barely touches the surface of what is possible, but it does use some incredibly common events, methods, and logic.
 
 Methods used:
