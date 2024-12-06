@@ -24,7 +24,7 @@ Methods used:
 - All other development features are done in `js/app.js`.
 
 ## Author
-[Denis Nemchenko].<https://github.com/DeNemchenko>
+[Denis Nemchenko].(<https://github.com/DeNemchenko>)
 
 ## License
 
