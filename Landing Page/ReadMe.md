@@ -19,7 +19,11 @@ Methods used:
 
 Here is an example of what you will see in the browser:
 
+### _Home Page_
 ![Picture1](https://github.com/user-attachments/assets/53327111-c034-4093-8a7c-bb2971ebb736)
+
+### _Section 3_
+![Picture2](https://github.com/user-attachments/assets/9c7badaf-9b71-44ed-905c-8427f3eddfdc)
 
 ## Built With
 
