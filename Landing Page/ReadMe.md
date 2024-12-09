@@ -17,6 +17,10 @@ Methods used:
 - The activated section and its peer on the navigation menu change their styles in order to exhibit their active status.
 - The previous activated section and its peer return to their original style.
 
+Here is an example of what you will see in the browser:
+
+![Picture1](https://github.com/user-attachments/assets/53327111-c034-4093-8a7c-bb2971ebb736)
+
 ## Built With
 
 - The original `index.html` and `css/styles.css` are provided by [Udacity].
