@@ -42,5 +42,6 @@ To run the project locally,
 1. Clone this repo.
 2. ```cd``` into project directory.
 3. Open ***card.html*** in your browser.
+
 ## Author
-Denis Nemchenko
+[Denis Nemchenko](https://github.com/DeNemchenko)
