@@ -8,7 +8,7 @@ Shopping carts are a fantastic tool to practice JavaScript fundamentals.
 
 There are two ways you can work locally. You can ignore all the excess files and strictly work within the src file. Or, you can take advantage of the live server and tests to improve your experience.
 
-To get the starter repository you can either:
+To get the starter repository you can either: 
 
 - Download the project from GitHub by clicking on the green button and selecting download (this is easiest!)
 - Forking the repository and then clone it to your local machine (see info on forking in the GitHub documentation: [Fork a repo](https://docs.github.com/en/github-ae@latest/get-started/quickstart/fork-a-repo).
