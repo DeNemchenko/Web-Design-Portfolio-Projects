@@ -131,6 +131,9 @@ Step 7: [Optional] Add extra features
 - Live Server (https://www.npmjs.com/package/live-server) - Live reloading for your workspace
 - Jest (https://jestjs.io/) - A JavaScript testing framework
 
+## Author
+[Denis Nemchenko](https://github.com/DeNemchenko)
+
 ## License
 
 [License](LICENSE.txt)
